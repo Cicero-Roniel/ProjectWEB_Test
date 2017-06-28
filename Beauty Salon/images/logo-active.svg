@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 481.89 481.89"
+   viewBox="0 0 655.26898 225.42567"
+   height="225.42567"
+   width="655.26898"
+   y="0px"
+   x="0px"
+   id="Capa_1"
+   version="1.1"><metadata
+     id="metadata13"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs11" /><g
+     style="fill:#0085a9;fill-opacity:1"
+     transform="matrix(0.36882013,0,0,0.36174852,30.655289,25.550979)"
+     id="g3"><path
+       style="fill:#0085a9;fill-opacity:1"
+       id="path5"
+       d="m 213.18,474.571 0,-150.401 -73.397,-75.199 c 0,0 -6.787,-9.07 0,-16.036 l 73.397,-75.262 0,-150.347 -200.197,205.267 c 0,0 -24.697,30.259 0,56.146 L 213.18,474.571 Z" /><path
+       style="fill:#0085a9;fill-opacity:1"
+       id="path7"
+       d="M 468.688,212.307 267.934,7.039 l 0,149.794 75.247,77.146 c 0,0 4.989,8.251 0,13.371 l -38.165,39.133 -13.402,-14.145 25.938,-25.778 c 0,0 -40.578,-52.864 -87.203,-23.343 l 51.701,52.488 -9.809,10.586 -52.706,-53.048 c -28.28,44.042 21.302,87.427 21.302,87.427 l 25.806,-24.95 14.676,15.055 -13.386,15.798 0,148.28 c 0,0 175.569,-181.565 200.753,-206.394 25.192,-24.828 0.002,-56.152 0.002,-56.152 z m -233.495,75.89 c -3.825,0 -6.912,-3.188 -6.912,-7.112 0,-3.927 3.087,-7.114 6.912,-7.114 3.848,0 6.938,3.177 6.938,7.114 0.001,3.929 -3.09,7.112 -6.938,7.112 z m 42.038,-37.719 c -3.833,0 -6.937,-3.187 -6.937,-7.124 0,-3.91 3.107,-7.106 6.937,-7.106 3.827,0 6.938,3.196 6.938,7.106 0.004,3.939 -3.113,7.124 -6.938,7.124 z" /></g><text
+     id="text3400"
+     y="87.627197"
+     x="246.64919"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#0085a9;fill-opacity:1"
+       y="87.627197"
+       x="246.64919"
+       id="tspan3402">Rootdevel</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#0085a9;fill-opacity:1"
+       id="tspan3404"
+       y="181.3772"
+       x="246.64919">Hackerspace</tspan></text>
+</svg>
